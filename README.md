@@ -6,5 +6,5 @@
     <br>
     - Interested in space and aeronautics 🚀 <br>
     - I enjoy reading, to develop my education and understanding 📚 <br>
-    - Strive to write useful, clean and efficient code 💻
+    - Strive to write useful, clean, and efficient code 💻
     </details>
