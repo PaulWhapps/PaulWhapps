@@ -10,6 +10,6 @@
     </details>
     
 <br>Upcoming Projects:</br>
- - Contact/Address book with local database
+ - Contact/Address book with SQLite database
  - Alarm clock
  - Expense tracker
