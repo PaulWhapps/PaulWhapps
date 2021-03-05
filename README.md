@@ -11,5 +11,6 @@
     
 <br>Upcoming Projects:</br>
  - Contact/Address book with SQLite database
+ - File manager
  - Alarm clock
  - Expense tracker
