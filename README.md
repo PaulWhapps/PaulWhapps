@@ -8,3 +8,8 @@
     - I enjoy reading, to develop my education and understanding 📚 <br>
     - Strive to write useful, clean, and efficient code 💻
     </details>
+    
+<br>Upcoming Projects:</br>
+ - Contact/Address book with local database
+ - Alarm clock
+ - Expense tracker
